@@ -1,0 +1,18 @@
+- main [ref=e2]:
+  - heading "PlayGround Dodger" [level=1] [ref=e3]
+  - paragraph [ref=e4]: Move the ship. Dodge the blocks. Survive.
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - text: Score
+      - strong [ref=e7]: "0"
+    - generic [ref=e8]:
+      - text: Best
+      - strong [ref=e9]: "0"
+    - generic [ref=e10]:
+      - text: Status
+      - strong [ref=e11]: ready
+  - generic "PlayGround Dodger game canvas" [ref=e12]
+  - generic [ref=e13]:
+    - button "Start / Restart (Space)" [ref=e14] [cursor=pointer]
+    - button "Pause (P)" [ref=e15] [cursor=pointer]
+  - paragraph [ref=e16]: "Controls: ← → or A/D to move, Space to start, P to pause. Touch/drag also works."
